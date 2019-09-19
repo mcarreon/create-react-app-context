@@ -1,6 +1,6 @@
 {
   "name": "context-react-scripts",
-  "version": "3.1.1",
+  "version": "1.0.3",
   "description": "Configuration and scripts for Create React App with context and custom hooks template.",
   "repository": {
     "type": "git",

@@ -6,7 +6,9 @@ const useExample = () => {
   const [state, setState] = useContext(ExampleContext);
 
 
-  handleTextChange = (e, { value }) => {
+  function handleTextChange (e) {
+    const { value } = e.target;
+    
     setState(state => ({
       ...state,
       text: value

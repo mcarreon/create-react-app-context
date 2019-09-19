@@ -1,6 +1,6 @@
 import React from 'react';
 
-import useExample from '../utils/hooks/useExample';
+import useExample from '../../utils/hooks/useExample';
 
 const Form = () => {
   const { text, handleTextChange } = useExample();
