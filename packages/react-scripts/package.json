@@ -1,10 +1,10 @@
 {
-  "name": "react-scripts",
+  "name": "context-react-scripts",
   "version": "3.1.1",
-  "description": "Configuration and scripts for Create React App.",
+  "description": "Configuration and scripts for Create React App with context and custom hooks template.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/mcarreon/create-react-app-context.git",
     "directory": "packages/react-scripts"
   },
   "license": "MIT",
@@ -12,7 +12,7 @@
     "node": ">=8.10"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/mcarreon/create-react-app-context/issues"
   },
   "files": [
     "bin",
